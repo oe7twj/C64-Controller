@@ -1,6 +1,6 @@
 # C64-Controller
 
-Control your C64 retro computer. 
+Controls your C64 retro computer. 
 Select Kernal, BASIC and Charset. 
 Select devicenumber of internal SD2IEC drive.
 
@@ -9,7 +9,7 @@ This is Hardware Extension for a C64 retro computer.
 (The C64 is a retro hardware from Commodore)
 
 
-# Nessecary Hardware:
+## Nessecary Hardware:
 - an old C64 computer
 - optionally a internal SD2IEC drive
 - a multi ROM adapter (for example REPROM64)
@@ -19,7 +19,7 @@ This is Hardware Extension for a C64 retro computer.
 - a Rotary Encoder [1€]
 
 
-# Features:
+## Features:
 - reset the C64
 - select one of 4 Kernals (and autoreset)
 - optionally select one of 2 BASIC (and autoreset)
@@ -28,7 +28,7 @@ This is Hardware Extension for a C64 retro computer.
 - Info Display
 
 
-# REPROM-64
+### REPROM-64
 This is one of the best multi ROM adapter for a C64.
 The Arduino can directly control this adapter.
 Link: http://www.henning-bekel.de/reprom64/
