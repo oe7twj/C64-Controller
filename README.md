@@ -19,6 +19,12 @@ This is Hardware Extension for a C64 retro computer.
 - a Rotary Encoder [1€]
 
 
+## Nessecary Software:
+- Arduino Workbench
+- Arduino Lib: LCD Menu Lib 2: https://github.com/Jomelo/LCDMenuLib2
+- Arduino Lib: U8g2lib: https://github.com/olikraus/u8g2
+
+
 ## Features:
 - reset the C64
 - select one of 4 Kernals (and autoreset)
