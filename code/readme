@@ -1,0 +1,8 @@
+this sketch is the code for the C64 control.
+
+edit the first line in this sketch to change the settings.
+- names of the ROM (kernal, charset, BASIC)
+- count of ROM
+- internal SD2IEC available or not
+
+
